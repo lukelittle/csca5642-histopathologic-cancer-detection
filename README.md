@@ -54,22 +54,3 @@ The project is organized into 5 main notebooks:
 ## Evaluation
 
 Submissions are evaluated on the area under the ROC curve (AUC-ROC) between the predicted probability and the observed target. This metric is particularly suitable for binary classification problems, especially when dealing with medical diagnoses.
-
-## Acknowledgments
-
-- Kaggle for hosting this competition
-- Bas Veeling for providing the dataset
-- Babak Ehteshami Bejnordi, Geert Litjens, and Jeroen van der Laak for additional input
-- The PCam dataset is provided under the CC0 License, following the license of Camelyon16
-
-## Citations
-
-If you use PCam in a scientific publication, please reference the following papers:
-
-1. B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology". arXiv:1806.03962
-
-2. Ehteshami Bejnordi et al. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA: The Journal of the American Medical Association, 318(22), 2199–2210. doi:jama.2017.14585
-
-## Competition Citation
-
-Will Cukierski. Histopathologic Cancer Detection. https://kaggle.com/competitions/histopathologic-cancer-detection, 2018. Kaggle.
